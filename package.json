@@ -18,6 +18,6 @@
     },
     "dependencies": {
         "bootstrap": "^5.3.3",
-        "sweetalert2": "^11.6.13"
+        "sweetalert2": "^11.22.4"
     }
 }
